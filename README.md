@@ -2,8 +2,6 @@
 
 A custom JavaScript engine built entirely from scratch in Python for Thunder 2.0 Hackathon. It reads standard JavaScript code, maps it into an execution blueprint, and runs it without using real JavaScript. To prove it works perfectly, it includes a smart test runner that benchmarks its output side-by-side against Node.js in real time!
 
-A lightweight, robust tree-walk JavaScript (ECMAScript 6) interpreter written in Python 3.10+. The runtime parses JavaScript code into an Abstract Syntax Tree (AST) using the `esprima2` library, manages variable bindings with full lexical scoping and hoisting rules, enforces JavaScript type coercion, and exposes core standard library structures.
-
 ---
 
 ## Features
