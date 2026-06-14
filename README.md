@@ -93,7 +93,7 @@ python main.py tests/manual_test.js
 
 ---
 
-## Running Integration Tests
+## Running Multiple Tests at once
 
 We have a test tool (`test_runner.py`) that checks if our JavaScript interpreter works correctly:
 
